@@ -1,1 +1,8 @@
-
+<img width="512" alt="image" src="https://github.com/Number-3434/macOS-System-Icons/assets/115815794/8302e23e-2256-4e44-84b6-4577f065d746">
+<img width="512" alt="image" src="https://github.com/Number-3434/macOS-System-Icons/assets/115815794/14a5635d-d917-4fba-a0bd-829ba5421132">
+<img width="512" alt="image" src="https://github.com/Number-3434/macOS-System-Icons/assets/115815794/525ef878-0114-45bc-8639-cc715f76588c">
+<img width="512" alt="image" src="https://github.com/Number-3434/macOS-System-Icons/assets/115815794/f39ac90a-7e3f-4c8a-b05b-54e403861d8e">
+<img width="512" alt="image" src="https://github.com/Number-3434/macOS-System-Icons/assets/115815794/cb8d7989-9bd7-4b7f-a044-9b8ff32cfb7f">
+<img width="512" alt="image" src="https://github.com/Number-3434/macOS-System-Icons/assets/115815794/6f8a4f12-6f29-4261-93ea-5dcb2217d539">
+<img width="512" alt="image" src="https://github.com/Number-3434/macOS-System-Icons/assets/115815794/893d9aa0-a151-474d-8327-eaf06bb26ce1">
+<img width="512" alt="image" src="https://github.com/Number-3434/macOS-System-Icons/assets/115815794/d2ed28e4-6246-4022-9afb-c8334cfc1769">
