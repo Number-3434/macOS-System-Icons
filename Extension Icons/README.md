@@ -6,3 +6,4 @@
 <img width="512" alt="image" src="https://github.com/Number-3434/macOS-System-Icons/assets/115815794/6f8a4f12-6f29-4261-93ea-5dcb2217d539">
 <img width="512" alt="image" src="https://github.com/Number-3434/macOS-System-Icons/assets/115815794/893d9aa0-a151-474d-8327-eaf06bb26ce1">
 <img width="512" alt="image" src="https://github.com/Number-3434/macOS-System-Icons/assets/115815794/d2ed28e4-6246-4022-9afb-c8334cfc1769">
+<img width="512" alt="image" src="https://github.com/Number-3434/macOS-System-Icons/assets/115815794/6f2c2b83-91f7-4e2c-8b0c-36a34b2de9c1">
