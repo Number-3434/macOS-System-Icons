@@ -64,3 +64,9 @@
   <img width="512" alt="image" src="https://github.com/Number-3434/macOS-System-Icons/assets/115815794/dd7537f7-ab47-4459-99ea-8ce52127e3ab">
   <img width="512" alt="image" src="https://github.com/Number-3434/macOS-System-Icons/assets/115815794/92bf9b48-2338-430c-9765-cb336d5c7f88">
 </details>
+
+<details>
+  <summary><h2>Miscellaneous</h2></summary>
+
+  
+</details>
